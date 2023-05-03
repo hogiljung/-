@@ -11,7 +11,7 @@
 4.  공지 및 댓글 알림
 
 # 실행화면
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/269b5431-45f7-4325-8740-92346f1cd147/Untitled.png)
+<img width="1115" alt="실행화면" src="https://user-images.githubusercontent.com/112647829/235956442-8b1072eb-c92c-467e-9607-bb063da6fa76.png">
 
 # 앱 스토어 링크
 [앱스토어](https://apps.apple.com/kr/app/게시판/id6446153966?platform=iphone](https://apps.apple.com/kr/app/%EA%B2%8C%EC%8B%9C%ED%8C%90/id6446153966?platform=iphone)

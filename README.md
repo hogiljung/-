@@ -14,7 +14,7 @@
 <img width="1115" alt="실행화면" src="https://user-images.githubusercontent.com/112647829/235956442-8b1072eb-c92c-467e-9607-bb063da6fa76.png">
 
 # 앱 스토어 링크
-[앱스토어](https://apps.apple.com/kr/app/게시판/id6446153966?platform=iphone](https://apps.apple.com/kr/app/%EA%B2%8C%EC%8B%9C%ED%8C%90/id6446153966?platform=iphone)
+[앱스토어](https://apps.apple.com/kr/app/게시판/id6446153966?platform=iphone)
 
 # 수행작업
 1. SwiftUI를 이용한 App 제작 및 출시: 회원가입, 로그인, 글과 댓글 작성을 할 수 있는 앱.
